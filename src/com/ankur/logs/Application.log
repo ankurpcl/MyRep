@@ -1,0 +1,82 @@
+07/05/2015 09:44:16 devpinoyLogger Properties loaded, starting testing
+07/05/2015 09:44:17 devpinoyLogger *************Executing Test Suite*****************C Suite12
+07/05/2015 09:44:17 devpinoyLogger *****Executing Test Case*******SampleTest
+07/05/2015 09:44:18 devpinoyLogger **********Iteration Number********** 3
+07/05/2015 09:44:18 devpinoyLogger openBrowser
+07/05/2015 09:44:18 devpinoyLogger Opening browser
+07/05/2015 09:44:25 devpinoyLogger Pass
+07/05/2015 09:44:25 devpinoyLogger navigate
+07/05/2015 09:44:25 devpinoyLogger Navigating to URL
+07/05/2015 09:45:43 devpinoyLogger Pass
+07/05/2015 09:45:43 devpinoyLogger clickLink
+07/05/2015 09:45:43 devpinoyLogger Clicking on link 
+07/05/2015 09:45:43 devpinoyLogger Fail----- Not able to click on link----Unable to locate element: {"method":"xpath","selector":"//*[@id='gbw']/div/div/div[1]/div[2]/a"}
+Command duration or timeout: 47 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.45.0', revision: '32a636c', time: '2015-03-05 22:01:35'
+System info: host: 'DO-A-CHAUDHRY09', ip: '192.168.43.162', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_75'
+*** Element info: {Using=xpath, value=//*[@id='gbw']/div/div/div[1]/div[2]/a}
+Session ID: 268134c9-b91c-4376-b760-8f3c7a3c13a7
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=WINDOWS, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=37.0.2}]
+07/05/2015 09:45:43 devpinoyLogger verifyLinkText
+07/05/2015 09:45:43 devpinoyLogger Verifying Link Text 
+07/05/2015 09:45:43 devpinoyLogger Fail----- Text not get verified----Unable to locate element: {"method":"xpath","selector":"html/body/div[1]/div[2]/div[1]/h2"}
+Command duration or timeout: 23 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.45.0', revision: '32a636c', time: '2015-03-05 22:01:35'
+System info: host: 'DO-A-CHAUDHRY09', ip: '192.168.43.162', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_75'
+*** Element info: {Using=xpath, value=html/body/div[1]/div[2]/div[1]/h2}
+Session ID: 268134c9-b91c-4376-b760-8f3c7a3c13a7
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=WINDOWS, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=37.0.2}]
+07/05/2015 09:45:43 devpinoyLogger writeInInput
+07/05/2015 09:45:43 devpinoyLogger Writing in text box
+07/05/2015 09:45:43 devpinoyLogger username_login_input
+07/05/2015 09:45:43 devpinoyLogger 
+07/05/2015 09:45:43 devpinoyLogger Fail---- Unable to writeUnable to locate element: {"method":"xpath","selector":"//*[@id='Email']"}
+Command duration or timeout: 44 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.45.0', revision: '32a636c', time: '2015-03-05 22:01:35'
+System info: host: 'DO-A-CHAUDHRY09', ip: '192.168.43.162', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_75'
+*** Element info: {Using=xpath, value=//*[@id='Email']}
+Session ID: 268134c9-b91c-4376-b760-8f3c7a3c13a7
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=WINDOWS, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=37.0.2}]
+07/05/2015 09:45:43 devpinoyLogger writeInInput
+07/05/2015 09:45:43 devpinoyLogger Writing in text box
+07/05/2015 09:45:43 devpinoyLogger password_login_input
+07/05/2015 09:45:43 devpinoyLogger 
+07/05/2015 09:45:43 devpinoyLogger Fail---- Unable to writeUnable to locate element: {"method":"xpath","selector":"//*[@id='Passwd']"}
+Command duration or timeout: 35 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.45.0', revision: '32a636c', time: '2015-03-05 22:01:35'
+System info: host: 'DO-A-CHAUDHRY09', ip: '192.168.43.162', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_75'
+*** Element info: {Using=xpath, value=//*[@id='Passwd']}
+Session ID: 268134c9-b91c-4376-b760-8f3c7a3c13a7
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=WINDOWS, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=37.0.2}]
+07/05/2015 09:45:43 devpinoyLogger verifyTextinInput
+07/05/2015 09:45:43 devpinoyLogger Verifying the text in input box
+07/05/2015 09:45:43 devpinoyLogger Fail----Unable to find elementUnable to locate element: {"method":"xpath","selector":"//*[@id='Email']"}
+Command duration or timeout: 40 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.45.0', revision: '32a636c', time: '2015-03-05 22:01:35'
+System info: host: 'DO-A-CHAUDHRY09', ip: '192.168.43.162', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_75'
+*** Element info: {Using=xpath, value=//*[@id='Email']}
+Session ID: 268134c9-b91c-4376-b760-8f3c7a3c13a7
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=WINDOWS, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=37.0.2}]
+07/05/2015 09:45:43 devpinoyLogger verifyTextinInput
+07/05/2015 09:45:43 devpinoyLogger Verifying the text in input box
+07/05/2015 09:45:43 devpinoyLogger Fail----Unable to find elementUnable to locate element: {"method":"xpath","selector":"//*[@id='Passwd']"}
+Command duration or timeout: 39 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.45.0', revision: '32a636c', time: '2015-03-05 22:01:35'
+System info: host: 'DO-A-CHAUDHRY09', ip: '192.168.43.162', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_75'
+*** Element info: {Using=xpath, value=//*[@id='Passwd']}
+Session ID: 268134c9-b91c-4376-b760-8f3c7a3c13a7
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=WINDOWS, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=37.0.2}]
+07/05/2015 09:45:43 devpinoyLogger verifyText
+07/05/2015 09:45:43 devpinoyLogger Verifying the text
